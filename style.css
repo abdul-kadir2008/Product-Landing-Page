@@ -1,0 +1,34 @@
+header {
+    display: flex;
+    align-items: center;
+    gap: 50%;
+}
+
+nav {
+    display: flex;
+    gap: 7%;
+}
+
+nav a:hover {
+    font-size: 25px;
+    transition: 1.5s;
+    color: rgb(206, 192, 255);
+}
+
+#main-div {
+    display: flex;
+    gap: 7%;
+}
+
+#div-2 {
+    display: flex;
+}
+
+#img-5 {
+    color: white;
+    height: auto;
+    background-image: url(download.jpg);
+    background-color: red;
+    align-items: center;
+    background-position: center;
+}
